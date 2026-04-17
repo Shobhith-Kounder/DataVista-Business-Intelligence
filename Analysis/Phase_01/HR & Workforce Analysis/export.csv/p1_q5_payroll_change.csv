@@ -1,0 +1,5 @@
+month_label,total_payroll,prev_month_payroll,payroll_increase,increase_pct
+"Oct 2025",10129000.00,NULL,NULL,NULL
+"Nov 2025",20258000.00,10129000.00,10129000.00,100.00
+"Dec 2025",10635450.00,20258000.00,-9622550.00,-47.50
+"Jan 2026",11141900.00,10635450.00,506450.00,4.76

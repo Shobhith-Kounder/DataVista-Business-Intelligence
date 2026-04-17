@@ -1,0 +1,4 @@
+employee_name,dept_name,job_title,hire_date,tenure_at_exit_years,salary,performance_score,performance_tier,dept_avg_salary,salary_vs_dept_avg
+"Owen Brown",Finance,Accountant,2022-02-16,4,69000.00,3.9,"Average Performer",77055.56,-8055.56
+"Sneha Iyer",HR,"HR Executive",2022-09-05,3,50000.00,3.9,"Average Performer",60411.76,-10411.76
+"Layla Ross",HR,Recruiter,2022-07-21,3,47000.00,3.5,"Average Performer",60411.76,-13411.76

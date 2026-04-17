@@ -1,0 +1,9 @@
+dept_name,leavers,active,total,attrition_rate_pct
+HR,2,17,19,10.5
+Finance,1,18,19,5.3
+Engineering,0,31,31,0.0
+Sales,0,18,18,0.0
+Marketing,0,17,17,0.0
+"IT Support",0,10,10,0.0
+Operations,0,10,10,0.0
+Product,0,9,9,0.0

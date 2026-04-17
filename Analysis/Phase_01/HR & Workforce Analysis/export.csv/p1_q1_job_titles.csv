@@ -1,0 +1,48 @@
+dept_name,job_title,employee_count,avg_salary
+Engineering,"Engineering Manager",2,122500.00
+Engineering,"Senior Engineer",4,115000.00
+Engineering,"Data Engineer",1,110000.00
+Engineering,"DevOps Engineer",1,105000.00
+Engineering,"Backend Engineer",4,100250.00
+Engineering,"Backend Developer",1,98000.00
+Engineering,"Frontend Developer",1,92000.00
+Engineering,"Software Engineer",6,90833.33
+Engineering,"Frontend Engineer",1,88000.00
+Engineering,"UI Designer",1,87000.00
+Engineering,"Junior Developer",1,78000.00
+Engineering,"QA Engineer",5,74000.00
+Engineering,"Junior Engineer",3,65000.00
+Finance,"Finance Manager",3,105666.67
+Finance,"Financial Analyst",5,77000.00
+Finance,"Finance Analyst",1,70000.00
+Finance,Accountant,6,68333.33
+Finance,"Finance Executive",3,68333.33
+HR,CEO,1,150000.00
+HR,"HR Manager",2,80000.00
+HR,"HR Analyst",3,56000.00
+HR,"HR Executive",5,51600.00
+HR,"HR Coordinator",3,49000.00
+HR,Recruiter,3,48000.00
+"IT Support","Network Engineer",2,84500.00
+"IT Support","System Engineer",1,84000.00
+"IT Support","System Administrator",2,83500.00
+"IT Support","IT Support Engineer",3,59333.33
+"IT Support","IT Technician",2,58500.00
+Marketing,"Marketing Manager",2,89000.00
+Marketing,"Marketing Strategist",2,80000.00
+Marketing,"Marketing Analyst",5,70200.00
+Marketing,"Digital Marketer",1,64000.00
+Marketing,"Marketing Executive",5,63400.00
+Marketing,"SEO Specialist",1,61000.00
+Marketing,"Content Strategist",1,59000.00
+Operations,"Operations Manager",4,94250.00
+Operations,"Operations Analyst",2,65000.00
+Operations,"Operations Executive",4,62500.00
+Product,"Product Manager",2,108500.00
+Product,"Product Designer",2,88000.00
+Product,"Product Analyst",5,75000.00
+Sales,"Regional Sales Head",1,120000.00
+Sales,"Sales Manager",2,88500.00
+Sales,"Sales Lead",3,87000.00
+Sales,"Sales Executive",9,57777.78
+Sales,"Sales Associate",3,55666.67

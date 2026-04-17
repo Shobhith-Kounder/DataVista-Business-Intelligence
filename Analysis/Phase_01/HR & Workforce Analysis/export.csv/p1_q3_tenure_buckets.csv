@@ -1,0 +1,5 @@
+tenure_bucket,employee_count,avg_salary,avg_performance_score
+"1 — 1 to 3 years",3,62666.67,3.70
+"2 — 3 to 5 years",45,68044.44,3.89
+"3 — 5 to 8 years",65,79800.00,4.16
+"4 — 8+ years",17,89764.71,4.35
