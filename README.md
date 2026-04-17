@@ -52,7 +52,7 @@ DataVista-Business-Intelligence/
 │   └── Project_Database.sql
 │
 ├── analysis/
-│   ├── phase_1_hr_workforce/
+│   ├── phase_1_HR_workforce/
 │   │   ├── sql/
 │   │   │   └── .gitkeep
 │   │   └── exports/
