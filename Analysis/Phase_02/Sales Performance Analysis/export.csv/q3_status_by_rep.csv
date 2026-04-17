@@ -1,0 +1,24 @@
+rep_name,status,order_count,value_at_risk
+"Nikhil Bansal",Pending,3,39200.00
+"Benjamin Rodriguez",Pending,3,37500.00
+"Ava Wright",Pending,3,19460.00
+"Abigail Wright",Pending,2,18000.00
+"Isaac Howard",Pending,2,15230.00
+"Vikram Singh",Pending,2,13230.00
+"Madison Kelly",Pending,1,52000.00
+"Abigail Wright",Cancelled,1,25900.00
+"Manish Tiwari",Cancelled,1,11000.00
+"Jackson Stewart",Pending,1,13400.00
+"Admin Head",Cancelled,1,5560.00
+"William Lopez",Pending,1,9000.00
+"Anjali Rao",Pending,1,16500.00
+"William Lopez",Cancelled,1,3400.00
+"Emma Thomas",Pending,1,7500.00
+"Manish Tiwari",Pending,1,15400.00
+"Madison Kelly",Cancelled,1,3300.00
+"Jackson Perez",Pending,1,6000.00
+"Jackson Perez",Cancelled,1,10480.00
+"Pooja Desai",Pending,1,8500.00
+"David Clark",Cancelled,1,7800.00
+"Ava Wright",Cancelled,1,8100.00
+"Grace Collins",Pending,1,10480.00
