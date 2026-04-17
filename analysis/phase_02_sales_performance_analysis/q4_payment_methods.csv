@@ -1,4 +1,0 @@
-payment_method,order_count,total_revenue,avg_order_value,min_order,max_order,usage_pct
-Card,226,2236550.00,9896.24,800.00,83000.00,54.07
-Cash,113,1030640.00,9120.71,2880.00,50640.00,27.03
-"Bank Transfer",79,703180.00,8901.01,2400.00,50700.00,18.90
