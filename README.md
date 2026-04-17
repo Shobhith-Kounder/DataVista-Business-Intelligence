@@ -44,21 +44,53 @@ departments ──< employees >── orders >── order_items >── product
 ## 📁 Repository Structure
 
 ```
-company-sales-analytics/
+DataVista-Business-Intelligence/
 │
 ├── README.md
+│
 ├── database/
-│   └── Project_Database.sql        ← Full schema + seed data
-├── sql-queries/
-│   ├── q1_top_sales_reps.sql       ← Top reps by revenue
-│   ├── q2_monthly_revenue.sql      ← Monthly revenue trend
-│   ├── q3_order_status.sql         ← Order health breakdown
-│   ├── q4_payment_methods.sql      ← Payment method analysis
-│   └── q5_score_vs_revenue.sql     ← HR × Sales cross-domain
-├── exports/
-│   └── *.csv                       ← Query outputs for Power BI
+│   └── Project_Database.sql
+│
+├── analysis/
+│   ├── phase_1_hr_workforce/
+│   │   ├── sql/
+│   │   │   └── .gitkeep
+│   │   └── exports/
+│   │       └── .gitkeep
+│   │
+│   ├── phase_2_sales_performance/
+│   │   ├── sql/
+│   │   │   ├── q1_top_sales_reps.sql
+│   │   │   ├── q2_monthly_revenue.sql
+│   │   │   ├── q3_order_status.sql
+│   │   │   ├── q4_payment_methods.sql
+│   │   │   └── q5_score_vs_revenue.sql
+│   │   │
+│   │   └── exports/
+│   │       ├── q1_top_reps.csv
+│   │       ├── q2_monthly_revenue.csv
+│   │       ├── q3_status_by_rep.csv
+│   │       ├── q3_status_overall.csv
+│   │       ├── q4_payment_methods.csv
+│   │       └── q5_score_vs_revenue.csv
+│   │
+│   ├── phase_3_product_category/
+│   │   ├── sql/
+│   │   │   └── .gitkeep
+│   │   └── exports/
+│   │       └── .gitkeep
+│   │
+│   ├── phase_4_customer_analytics/
+│   │   ├── sql/
+│   │   │   └── .gitkeep
+│   │   └── exports/
+│   │       └── .gitkeep
+│   │
+│   └── phase_5_executive_dashboard/
+│       └── .gitkeep
+│
 └── dashboard/
-    └── sales_dashboard.pbix        ← Final Power BI report
+    └── sales_dashboard.pbix
 ```
 
 ---
